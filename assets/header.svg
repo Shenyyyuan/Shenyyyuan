@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#10233f"/><stop offset="1" stop-color="#154d67"/></linearGradient></defs>
+<rect width="1280" height="300" rx="20" fill="url(#g)"/>
+<g stroke="#80c9e0" stroke-opacity=".22" fill="none"><circle cx="1090" cy="145" r="95"/><circle cx="1090" cy="145" r="140"/><path d="M925 240L1035 95 1190 200M970 40L1200 115 1035 245"/></g>
+<g fill="#70d5d0"><circle cx="1035" cy="95" r="7"/><circle cx="1190" cy="200" r="7"/><circle cx="1035" cy="245" r="5"/></g>
+<text x="64" y="72" fill="#7fd3d8" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">RESEARCH · ALIGNMENT · AI SYSTEMS</text>
+<text x="60" y="158" fill="white" font-family="Arial,sans-serif" font-size="68" font-weight="700">SHEN YUAN</text>
+<text x="64" y="212" fill="#d0e3ed" font-family="Arial,sans-serif" font-size="23">From model behavior to measurable, evidence-grounded systems.</text>
+<text x="64" y="264" fill="#a0bbcf" font-family="Arial,sans-serif" font-size="16">Shanghai Jiao Tong University / LLM Post-training &amp; Agentic RAG</text>
+</svg>
