@@ -31,7 +31,7 @@
 - **模型指标**：Turn-taking、Backchannel、Interruption 等全双工能力；
 - **业务指标**：响应延迟、打断体验、对话自然度与业务交互效果。
 
-**重点研究问题**：8 kHz 电话音频如何适配 16 kHz Speech Tokenizer？Overlap 为什么不等于 Interrupt？Backchannel 如何标注与评测？端到端全双工相比 ASR→LLM→TTS 能解决哪些实时交互问题？
+**重点研究问题**：如何将业务数据集整理为Lychee-FD可训练的格式？Interruption如何自动化标注？如何打造数据清洗pipeline？端到端全双工相比 ASR→LLM→TTS 能解决哪些实时交互问题？如何用业务数据微调后使得模型在指标上增长？
 
 ---
 
