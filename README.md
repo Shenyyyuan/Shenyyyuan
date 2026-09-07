@@ -12,8 +12,6 @@
 - **全双工语音模型**：关注 Turn-taking、Backchannel、Interrupt、EOT 与端到端 Full-Duplex Spoken LLM；
 - **LLM Post-training & Agent**：实践拟人化的 SFT、DPO、PPO/RL、RAG、Tool Agent 与可验证评测。
 
-我更关注一个模型为什么有效、什么时候失效，以及如何通过数据、训练、评测和工程系统把这些问题真正定位出来。
-
 [GitHub](https://github.com/Shenyyyuan) · [Email](mailto:shenyuan001@sjtu.edu.cn)
 
 ---
